@@ -1,3 +1,3 @@
-import {Montserrat} from "next/font/google";
+import { Montserrat } from "next/font/google";
 
-export const monserrat = Monserrat{{}}
+export const monserrat = Montserrat({ subsets: ["latin"] });
